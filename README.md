@@ -33,8 +33,8 @@ This project is a full-stack CRUD (Create, Read, Update, Delete) application bui
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/manojtharindu11/angular-dotnet-crud.git
-   cd angular-dotnet-crud
+   git clone https://github.com/manojtharindu11/Angular-ASP.NET-CRUD-application.git
+   cd Angular-ASP.NET-CRUD-application
    ```
 
 2. **Backend Setup:**
@@ -42,7 +42,7 @@ This project is a full-stack CRUD (Create, Read, Update, Delete) application bui
    - Navigate to the backend project folder:
 
      ```bash
-     cd backend
+     cd Fullstack API
      ```
 
    - Restore .NET dependencies:
@@ -76,7 +76,7 @@ This project is a full-stack CRUD (Create, Read, Update, Delete) application bui
    - Navigate to the frontend project folder:
 
      ```bash
-     cd frontend
+     cd Fullstack UI
      ```
 
    - Install Angular dependencies:
