@@ -33,7 +33,7 @@ This project is a full-stack CRUD (Create, Read, Update, Delete) application bui
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/angular-dotnet-crud.git
+   git clone https://github.com/manojtharindu11/angular-dotnet-crud.git
    cd angular-dotnet-crud
    ```
 
